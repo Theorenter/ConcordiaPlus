@@ -1,0 +1,5 @@
+name: ConcordiaPlus
+version: '${project.version}'
+main: me.theorenter.concordiaplus.ConcordiaPlus
+api-version: '1.21'
+depend: [ CommandAPI ]

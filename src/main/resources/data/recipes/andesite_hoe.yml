@@ -1,0 +1,20 @@
+type: "SHAPED_RECIPE"
+recipe-key: "stone_hoe_andesite"
+shaped-recipe:
+  shape:
+    - "AA "
+    - " S "
+    - " S "
+  ingredients:
+    A:
+      type: "MINECRAFT_MATERIAL"
+      ID : "ANDESITE"
+    S:
+      type: "MINECRAFT_MATERIAL"
+      ID: "STICK"
+  category: "EQUIPMENT"
+  group: "Hoe"
+result:
+  type: "MINECRAFT_MATERIAL"
+  ID: "STONE_HOE"
+  amount: 1

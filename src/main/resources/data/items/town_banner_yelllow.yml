@@ -1,0 +1,15 @@
+ID: "yellow_town_banner"
+type: "YELLOW_BANNER"
+meta:
+  display-name: "<#FC54FC><i:false>Жёлтый флаг города"
+  lore:
+    - ""
+    - "<#FCFC00><i:false>При рамзещении на чанке суши"
+    - "<#FCFC00><i:false>предлагает Вам основать новый"
+    - "<#FCFC00><i:false>город на данной территории"
+    - ""
+    - "<#FFFFFF><i:false>Ԁ<dark_gray> > <#E9D282>Клик по блоку <#FCFC00>– создать новый город."
+  persistent-data-container:
+    - key: "townbanner"
+      type: BOOLEAN
+      value: true

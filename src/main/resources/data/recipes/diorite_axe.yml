@@ -1,0 +1,20 @@
+type: "SHAPED_RECIPE"
+recipe-key: "stone_axe_diorite"
+shaped-recipe:
+  shape:
+    - "DD "
+    - "DS "
+    - " S "
+  ingredients:
+    D:
+      type: "MINECRAFT_MATERIAL"
+      ID : "DIORITE"
+    S:
+      type: "MINECRAFT_MATERIAL"
+      ID: "STICK"
+  category: "EQUIPMENT"
+  group: "Axe"
+result:
+  type: "MINECRAFT_MATERIAL"
+  ID: "STONE_AXE"
+  amount: 1

@@ -1,0 +1,20 @@
+type: "SHAPED_RECIPE"
+recipe-key: "stone_shovel_andesite"
+shaped-recipe:
+  shape:
+    - " A "
+    - " S "
+    - " S "
+  ingredients:
+    A:
+      type: "MINECRAFT_MATERIAL"
+      ID : "ANDESITE"
+    S:
+      type: "MINECRAFT_MATERIAL"
+      ID: "STICK"
+  category: "EQUIPMENT"
+  group: "Shovel"
+result:
+  type: "MINECRAFT_MATERIAL"
+  ID: "STONE_SHOVEL"
+  amount: 1

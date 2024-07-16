@@ -1,0 +1,20 @@
+type: "SHAPED_RECIPE"
+recipe-key: "stone_hoe_diorite"
+shaped-recipe:
+  shape:
+    - "DD "
+    - " S "
+    - " S "
+  ingredients:
+    D:
+      type: "MINECRAFT_MATERIAL"
+      ID : "DIORITE"
+    S:
+      type: "MINECRAFT_MATERIAL"
+      ID: "STICK"
+  category: "EQUIPMENT"
+  group: "Hoe"
+result:
+  type: "MINECRAFT_MATERIAL"
+  ID: "STONE_HOE"
+  amount: 1
